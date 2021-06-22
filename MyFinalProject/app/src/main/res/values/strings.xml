@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Final Project</string>
+    <string name="userInputText">Enter A Number</string>
+    <string name="userInstructionText">Enter A Number 1 Through 25</string>
+    <string name="appMainNameText">DnD Character Randomizer</string>
+
+    <string name="sayMyName">Joshua Hughes</string>
+
+    <string name="errorInstruction">Bad Entry: Please Enter A Number 1 Through 25</string>
+
+    <string name="nameTitleText">Character Name:</string>
+    <string name="classTitleText">Character Class:</string>
+    <string name="raceTitleText">Character Race:</string>
+
+    <string name="strengthTitleText">Strength:</string>
+    <string name="dexterityTitleText">Dexterity:</string>
+    <string name="constitutionTitleText">Constitution:</string>
+    <string name="intelligenceTitleText">Intelligence:</string>
+    <string name="wisdomTitleText">Wisdom:</string>
+    <string name="charismaTitleText">Charisma:</string>
+    <string name="abilityScoresTitleText">Ability Scores</string>
+
+    <string name="blankStatText">ERROR_Blank</string>
+
+    <string name="randomizeBtnText">Generate Randomized Characters</string>
+    <string name="handbookBtnText">DnD Handbook</string>
+    <string name="introBtnText">Read Introduction</string>
+
+    <string name="whatIsAppText">What Does This App Do?</string>
+    <string name="whatIsClassText">What is a DnD Class?</string>
+    <string name="whatIsRaceText">What is a DnD Race?</string>
+    <string name="whatIsAbScoresText">What are DnD Ability Scores?</string>
+
+    <string name="appExplanationText">
+        This app uses a user-inputted number to generate that many randomized DnD characters.
+        \nThese DnD characters have their name, race, class, and ability scores randomized.
+        \nEach character\'s race and class will have a link to the official DnD website explaining what each race or class does.
+        \nAll character levels will be 1. You select a character you want, and then upgrade it (outside of this app) depending on your play group.\n
+    </string>
+
+    <string name="explainClassText">
+        A Class in DnD is your character\'s job in the world. A Class determines what abilities your character has, and what abilities your character can gain.
+        \nFor example, a Cleric is like a nurse, except that nurse has magic and a mace to bash enemies\' heads in.
+    </string>
+
+    <string name="explainRaceText">
+        A Race in DnD is your character\'s species in the world.
+        \nUnlike the real world, the world of DnD has many sentient species.
+        \nSome sentient species are amphibians, others are reptiles, etc.
+        \nFor example, humans are a sentient mammal species.
+    </string>
+
+    <string name="explainAbScoresText">
+        An Ability Score in DnD is one of 6 statistics ranging from integer values 1 to 20 that define your character\'s strengths. A higher score is better.
+        \nThe 6 Ability Scores are: Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
+        \nFor example, a Strength score of 1 means your character can barely life a twig. A Strength score of 20 means your character can lift boulders.
+    </string>
+
+    <string name="explainAppBtnText">Explain App</string>
+    <string name="explainClassBtnText">Explain Class</string>
+    <string name="explainRaceBtnText">Explain Race</string>
+    <string name="explainAbScoresBtnText">Explain Ability Score</string>
+    <string name="returnToAppBtnText">Return To Main Screen</string>
+</resources>
